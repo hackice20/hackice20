@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**hackice20/hackice20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hackice20.hackice20)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: don't
 - 😄 Pronouns: fuck off
 - ⚡ Fun fact: I have NO FUN!
--->
+
