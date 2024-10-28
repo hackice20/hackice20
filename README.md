@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on everything
 - 💬 Ask me about nothing
 - 📫 How to reach me: don't
-- 😄 Pronouns: fuck off
+- 😄 Pronouns: dumb/idiot
 - ⚡ Fun fact: I have NO FUN!
 
