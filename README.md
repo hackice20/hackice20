@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on everything
 - 💬 Ask me about nothing
-- 📫 How to reach me: don't
+- 📫 How to reach me: don't (but just incase you want to :hackice2004@gmail.com)
 - 😄 Pronouns: dumb/idiot
 - ⚡ Fun fact: I have NO FUN!
 
