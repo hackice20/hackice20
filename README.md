@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hackice20.hackice20)
+![visitors](https://visitor-badge.laobi.icu/badge?hackice20=hackice20)
 
 
 - 🔭 I’m currently working on nothing
