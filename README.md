@@ -27,4 +27,8 @@
 <h2>Tools</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,prisma,postman,linux)](https://skillicons.dev)
+
+![hackice20's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackice20&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackice20&layout=compact)
   
