@@ -11,3 +11,20 @@
 - 😄 Pronouns: dumb/idiot
 - ⚡ Fun fact: I have NO FUN!
 
+
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,cpp,python,c,java,rust,go)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,express,react,tailwindcss,nodejs)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,prisma,postman,linux)](https://skillicons.dev)
+  
