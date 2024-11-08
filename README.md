@@ -14,7 +14,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,cpp,python,java,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ts,js,bash,rust,go)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
