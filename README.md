@@ -3,14 +3,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hackice20.hackice20)
 
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on everything
-- 💬 Ask me about nothing
-- 📫 How to reach me: don't (but just in case you really want to :hackice2004@gmail.com)
-- 😄 Pronouns: dumb/idiot
-- ⚡ Fun fact: I have NO FUN!
-
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning Gen AI
+- 👯 I’m looking to collaborate
+- 💬 Ask me about anything
+- 📫 How to reach me: hackice2004@gmail.com
+- ⚡ Fun fact: I have FUN
 
 <h2>Languages</h2>
 
