@@ -28,8 +28,8 @@
 
 <h2>Stats</h2>
 
-![hackice20's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackice20&layout=compact)
+![hackice20's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackice20&layout=compact&include_all_commits=true&count_private=true&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackice20&layout=compact&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackice20&layout=compact&include_all_commits=true&count_private=true&v=1)
 
   
