@@ -28,8 +28,8 @@
 
 <h2>Stats</h2>
 
-![hackice20's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackice20&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=4caf50&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&v=0)
+![hackice20's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackice20&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=4caf50&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackice20&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=4caf50&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackice20&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=4caf50&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&v=2)
 
   
