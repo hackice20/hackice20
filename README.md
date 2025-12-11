@@ -3,10 +3,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hackice20.hackice20)
 
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning Gen AI
-- 👯 I’m looking to collaborate
-- 💬 Ask me about anything
+- 🔭 I’m currently working
+- 🌱 I’m currently learning
+- 👯 I’m looking not to collaborate
+- 💬 Ask me about nothing
 - 📫 How to reach me: contact@yashworks.xyz
 - ⚡ Fun fact: I have FUN
 
