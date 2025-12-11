@@ -25,3 +25,8 @@
 <h2>Tools</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,prisma,postman,linux)](https://skillicons.dev)
+
+<h2>Stats</h2>
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=hackice20&theme=radical&layout=compact" alt="Yash's GitHub Contributions" />
+</div>
