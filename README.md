@@ -7,7 +7,7 @@
 -  I’m currently learning
 -  I’m looking not to collaborate
 -  Ask me about nothing
--  How to reach me: contact@yashworks.xyz
+-  How to reach me: contact@yashworks.com
 -  Fun fact: I have FUN
 
 <h2>Languages</h2>
